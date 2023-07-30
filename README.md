@@ -2,7 +2,6 @@
 All active & apk id get from this command 😘🥰
 
 #Install Method
-#h1
 
        git clone https://github.com/Devil-king2/Riyaj-king-Random
        cd Riyaj-king-Random
